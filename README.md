@@ -1,1 +1,6 @@
-# wad1-labs
+# Web App
+
+- MVC Architecture
+- NodeJS
+- Express
+- npm
